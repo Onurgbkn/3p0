@@ -1,0 +1,19 @@
+GET /login2 HTTP/2
+Host: 0a55000c0472519b80a8ade700a30033.web-security-academy.net
+Cookie: session=IFbebYOMv1Z3hBMWl15PVW2mnTAzEIYo
+Cache-Control: max-age=0
+Upgrade-Insecure-Requests: 1
+User-Agent: Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/138.0.0.0 Safari/537.36
+Accept: text/html,application/xhtml+xml,application/xml;q=0.9,image/avif,image/webp,image/apng,*/*;q=0.8,application/signed-exchange;v=b3;q=0.7
+Sec-Fetch-Site: same-origin
+Sec-Fetch-Mode: navigate
+Sec-Fetch-User: ?1
+Sec-Fetch-Dest: document
+Sec-Ch-Ua: "Not)A;Brand";v="8", "Chromium";v="138", "Google Chrome";v="138"
+Sec-Ch-Ua-Mobile: ?0
+Sec-Ch-Ua-Platform: "Windows"
+Referer: https://0a0700b0042d8cb5804249a900d1008f.web-security-academy.net/login
+Accept-Encoding: gzip, deflate, br
+Accept-Language: en
+Priority: u=0, i
+
